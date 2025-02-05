@@ -1,7 +1,8 @@
-# Data Cleaning Project
+# Data_Cleaning_Project_SQL
 
 ## Overview
-This project focuses on cleaning and standardizing a dataset of company layoffs. The dataset is stored in a CSV file and loaded into a PostgreSQL database for processing. The project involves several steps to ensure the data is clean, consistent, and ready for analysis.
+This project focuses on cleaning and standardizing a dataset of company layoffs. The dataset is stored in a CSV file and loaded into a PostgreSQL database for processing. The project involves several steps to ensure the data is clean, consistent, and ready for analysis.  
+[Final Project](https://github.com/symo-254/Data_Cleaning_Project_SQL)
 
 ## Steps for Data Cleaning
   1.Remove Duplicates: Identify and remove duplicate rows from the staging table.  
